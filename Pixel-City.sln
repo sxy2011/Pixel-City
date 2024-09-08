@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pixel-City", "Pixel-City.pyproj", "{B2EE9BCE-EEC4-4227-9AE2-B4D39461ECF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2EE9BCE-EEC4-4227-9AE2-B4D39461ECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EE9BCE-EEC4-4227-9AE2-B4D39461ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED2E5460-115C-48B0-B0D5-E22696B4127F}
+	EndGlobalSection
+EndGlobal
